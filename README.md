@@ -36,9 +36,9 @@ cd week2-complete && python ironclad_gateway.py
 
 ## Whats next
 
-Week 13-14: Docker
-Week 15-16: Azure IoT Hub
-Week 17+: OPC-UA, Kubernetes
+Docker
+Azure IoT Hub
+OPC-UA, Kubernetes
 
 ---
 
