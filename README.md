@@ -27,11 +27,11 @@ Learning Python for edge computing in oil & gas. 2 weeks of fundamentals.
 ## Run any project
 
 ```bash
-cd day03-error-handling && python sensor_reader.py
-cd day06-oop-protocols && python protocol_gateway.py
-cd week2-csv-processing && python historian_processor.py
-cd day11-store-and-forward && python store_forward.py
-cd week2-complete && python ironclad_gateway.py
+python sensor_reader.py
+python protocol_gateway.py
+python historian_processor.py
+python store_forward.py
+python ironclad_gateway.py
 ```
 
 ## Whats next
